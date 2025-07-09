@@ -74,7 +74,7 @@ An interactive and visually rich web application to **predict house prices** usi
 - [Plotly Express](https://plotly.com/python/plotly-express/)
 
 ---
-
+--Run:https://houseprice-prediction-ben8cjflkmuwfdwqwts992.streamlit.app/
 ## 🚀 Run Locally
 
 ```bash
@@ -82,3 +82,5 @@ git clone https://github.com/Harishchandra-26/Houseprice-Prediction.git
 cd Houseprice-Prediction
 pip install -r requirements.txt
 streamlit run main.py
+
+
