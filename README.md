@@ -24,13 +24,13 @@ An interactive and visually rich web application to **predict house prices** usi
 ## 📸 App Screenshots
 
 ### 🔍 Predict Price of a Single House  
-![UI](screenshots/predict_ui.png)
+![UI](Screenshots/predict_ui.png)
 
 ### 📊 Actual vs Predicted Prices  
-![Actual vs Predicted](screenshots/actual_vs_predicted.png)
+![Actual vs Predicted](Screenshots/actual_vs_predicted.png)
 
 ### 🧠 Feature Importance  
-![Feature Importance](screenshots/feature_importance.png)
+![Feature Importance](Screenshots/feature_importance.png)
 
 ---
 
