@@ -42,7 +42,7 @@ def train_model():
     # Store training data and metrics for evaluation
     y_pred = model.predict(X)
     mae = mean_absolute_error(y, y_pred)
-    rmse = mean_squared_error(y, y_pred, squared=False)
+    rmse = mean_squared_error(y, y_pred) ** 0.5
     return model, mae, rmse, X.columns, model.feature_importances_, df, y_pred, y
 
 # App
